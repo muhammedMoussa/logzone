@@ -1,0 +1,24 @@
+{
+  "name": "logzone",
+  "version": "0.0.0",
+  "description": "Simple package to print pretty logs messages.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammedMoussa/logzone.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "console.log"
+  ],
+  "author": "Muhammed Moussa <muhammedmoussa@hotmail.com> (http://muhammedmoussa.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhammedMoussa/logzone/issues"
+  },
+  "homepage": "https://github.com/muhammedMoussa/logzone#readme"
+}
