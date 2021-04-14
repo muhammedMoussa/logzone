@@ -1,6 +1,6 @@
 {
   "name": "logzone",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple package to print pretty logs messages.",
   "main": "dist/loglogz.js",
   "scripts": {
