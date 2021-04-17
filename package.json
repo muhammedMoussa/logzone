@@ -1,8 +1,8 @@
 {
   "name": "logzone",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple package to print pretty logs messages.",
-  "main": "dist/loglogz.js",
+  "main": "dist/logzone.js",
   "scripts": {
     "cmt": "git-cz",
     "build": "webpack",
