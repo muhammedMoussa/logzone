@@ -1,12 +1,11 @@
 {
   "name": "logzone",
-  "version": "0.0.4",
+  "version": "0.0.13",
   "description": "Simple package to print pretty logs messages.",
   "main": "dist/logzone.js",
   "scripts": {
     "cmt": "git-cz",
-    "build": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
