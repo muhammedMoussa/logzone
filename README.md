@@ -1,7 +1,7 @@
 # logzone 🍭
 > a package to print pretty log messages. you can use predefined or customize your own!
 
-![npm](https://img.shields.io/npm/dw/logzone) 
+![npm](https://img.shields.io/npm/dt/logzone) 
 [![](https://data.jsdelivr.com/v1/package/npm/logzone/badge)](https://www.jsdelivr.com/package/npm/logzone)
 
 # Installation ⚙️

@@ -1,6 +1,6 @@
 {
   "name": "logzone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a package to print pretty log messages. you can use predefined or customize your own!",
   "main": "dist/logzone.js",
   "scripts": {
