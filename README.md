@@ -84,3 +84,4 @@ danger("I'm predefined logzone baby danger log, with custom font size!", 14);
 - add `init()` method.
 - add more themes.
 - tailwind colors utils compatibility.
+- add React hook.
